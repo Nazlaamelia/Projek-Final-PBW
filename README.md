@@ -8,6 +8,6 @@ Pembuatan website ini merupakan projek final untuk mata kuliah Pemrograman Berba
 
 - 1808107010002 Nazla Amelia
 - 1808107010054 Rizki Nabilah Silmina
-- 18081070100xx 
+- 1808107010040 Hilyatul Ula 
 - 1808107010067 Fitria Wardaliza 
 
